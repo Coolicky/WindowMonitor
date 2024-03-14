@@ -17,4 +17,4 @@ Checks for changes to foreground window handle and saves it to a file.
 6. Press "Q" to exit
 7. Select if you want to save Window Titles to a file default "Yes"
 8. Pass a filePath default "c:/users/{username}/WindowTitles.txt
-9. Titles have been saved in a for `{Handle as int}: {Title}`
+9. Titles have been saved in as `{Handle as int}: {Title}`
